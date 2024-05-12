@@ -1,3 +1,3 @@
-pygame-gui
-pygame
+pygame_gui
+pygame_ce
 numpy
